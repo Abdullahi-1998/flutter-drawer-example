@@ -15,6 +15,3 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-
-![Uploading Simulator Screen Shot - iPhone 12 Pro Max - 2021-04-20 at 16.11.20.png…]()
